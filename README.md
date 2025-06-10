@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hello World, I'm Divya Pant!
 
-<!--
-**divya1417/divya1417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 A passionate B.Tech CSE student, self-driven learner, and tech enthusiast with a love for crafting solutions through code.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Divya, an aspiring software developer currently pursuing my Bachelor's in Computer Science & Engineering. I thrive on learning by doing and enjoy turning ideas into working projects.
+
+- 🛠️ Currently exploring **Data Structures**, **Web Development**, and **Machine Learning**.
+- ✨ I love working in teams, growing together, and sharing knowledge.
+- 🎯 Always curious about new technologies and best coding practices.
+
+## 💻 Tech Stack
+
+**Languages:**  
+`Python` | `Java` | `HTML` | `CSS` | `SQL` |'javaScript'
+
+**Frameworks & Tools:**  
+`Streamlit` | `Pandas` | `NumPy` | `Matplotlib` | `Git` | `VS Code` | `GitHub`
+
+## 🌐 Connect with Me!
+
+🌍 **LinkedIn:** [Divya Pant](https://linkedin.com/in/divya-pant-902631247  
+📧 **Email:** divyapant101@gmail.com
+💼 **Leetcode:** https://leetcode.com/u/divyapant_/
+👩‍💻**GitHub:** [@divya1417](https://github.com/divya1417)
